@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+  justify-content: space-evenly;
+}
+
+.logo-container {
+  background-color: aqua;
+}
+
+.nav {
+  background-color: blue;
+}
+
+.nav-links {
+  margin: 0 0.5em;
+}
