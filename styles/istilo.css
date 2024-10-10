@@ -221,9 +221,6 @@ main {
   color: rgb(243, 244, 246);
   font-weight: 900;
   font-size: 100px;
-  
-  
-  
 }
 /* ----------aboutpage content-------- */
 .aboutpage-content {
@@ -251,6 +248,14 @@ main {
   padding-top: 10px;
   text-align: left;
   color: rgb(243, 244, 246);
+}
+
+/* -------------tech stacks---------- */
+.tech-header {
+  padding-top: 30px;
+  color: rgb(243, 244, 246);
+  font-weight: 900;
+  font-size: 100px;
 }
 
 /* -------------blog page---------- */
